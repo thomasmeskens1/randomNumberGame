@@ -69,11 +69,3 @@ function reiniciarJogo(){
     exibirMesagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true);
 }
-
-
-// Ola mundo
-//Commit 2
-
-
-
-
